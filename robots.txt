@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyuseatu.github.io/Ewr/sitemap_index.txt
+Sitemap: https://iyuseatu.github.io/SjU/sitemap_index.txt
+Sitemap: https://iyuseatu.github.io/VKZ/sitemap_index.txt
+Sitemap: https://iyuseatu.github.io/ogm/sitemap_index.txt
